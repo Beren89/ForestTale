@@ -6403,4 +6403,961 @@
 [2016.02.16-15.31.47:715][ 20]LogSavePackage: Save=315.604797ms
 [2016.02.16-15.31.47:715][ 20]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMap5C9073F44B57DCB021510FBF363BAB14.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap'
 [2016.02.16-15.31.47:719][ 20]LogSavePackage: Total save time: 323.620208ms
-[2016.02.16-15.31.47:719][ 20]LogSavePackage:Display: Finished SavePackage E:/A
+[2016.02.16-15.31.47:719][ 20]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap
+[2016.02.16-15.32.22:273][247]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.02.16-15.33.45:905][266]LogTexture:Display: Building textures: Theseus_color (AutoDXT)
+[2016.02.16-15.33.48:174][266]LogTexture:Display: Building textures: Theseus_spec (AutoDXT)
+[2016.02.16-15.33.49:537][266]LogTexture:Display: Building textures: Theseus_mid_nm (BC5)
+[2016.02.16-15.33.49:976][266]LogMaterial: Missing cached shader map for material _Body_Mid, compiling. 
+[2016.02.16-15.33.49:989][266]LogMaterial: Missing cached shader map for material _Eye_trans, compiling. 
+[2016.02.16-15.33.50:145][266]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2016.02.16-15.33.50:283][267]LogRenderer: Reallocating scene render targets to support 1616x876 (Frame:238325).
+[2016.02.16-15.35.18:771][809]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2016.02.16-15.35.26:512][612]LogEditorTransaction: Undo Rotate Bone
+[2016.02.16-15.48.51:665][458]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.02.16-15.49.01:936][382]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.16-15.49.01:988][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000053109E40
+[2016.02.16-15.49.01:990][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000035BEE2A0
+[2016.02.16-15.49.01:991][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000035BEE3E0
+[2016.02.16-15.49.01:992][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000178B2B4C0
+[2016.02.16-15.49.01:993][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000178B2BA60
+[2016.02.16-15.49.01:995][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000052DD4680
+[2016.02.16-15.49.01:996][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005B5C60C0
+[2016.02.16-15.49.01:996][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000D5768A40
+[2016.02.16-15.49.01:997][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000D576B880
+[2016.02.16-15.49.01:999][382]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000001168DB4C0
+[2016.02.16-15.53.17:124][608]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_2377 or K2Node_CallFunction /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap.EventGraph.K2Node_CallFunction_2377
+[2016.02.16-15.53.17:124][608]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2377.EdGraphPin_5789''
+[2016.02.16-15.53.17:125][608]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_2381 or K2Node_CallFunction /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap.EventGraph.K2Node_CallFunction_2381
+[2016.02.16-15.53.17:125][608]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2381.EdGraphPin_5806''
+[2016.02.16-15.53.17:125][608]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_2377 or K2Node_CallFunction /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap.EventGraph.K2Node_CallFunction_2377
+[2016.02.16-15.53.17:125][608]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2377.EdGraphPin_5791''
+[2016.02.16-15.53.17:137][608]LogLinker:Warning: Can't find file '/Game/Maps/OTM'
+[2016.02.16-15.53.17:137][608]LogLinker: Can't find file '/Game/Maps/OTM'
+[2016.02.16-15.53.17:137][608]LogProperty:Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'DirectionalLight'/Game/Maps/OTM.OTM:PersistentLevel.LightSource_0''
+[2016.02.16-15.53.17:138][608]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_2384 or K2Node_CallFunction /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap.EventGraph.K2Node_CallFunction_2384
+[2016.02.16-15.53.17:138][608]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2384.EdGraphPin_5819''
+[2016.02.16-15.53.17:138][608]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_2381 or K2Node_CallFunction /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap.EventGraph.K2Node_CallFunction_2381
+[2016.02.16-15.53.17:138][608]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2381.EdGraphPin_5808''
+[2016.02.16-15.53.17:139][608]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_2384 or K2Node_CallFunction /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap.EventGraph.K2Node_CallFunction_2384
+[2016.02.16-15.53.17:140][608]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2384.EdGraphPin_5821''
+[2016.02.16-15.53.17:140][608]LogLinker: Can't find file '/Game/Maps/OTM'
+[2016.02.16-15.53.17:140][608]LogProperty:Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'BP_Sky_Sphere_C'/Game/Maps/OTM.OTM:PersistentLevel.SkySphereBlueprint''
+[2016.02.16-15.55.20:103][265]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2016.02.16-15.55.20:153][265]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.16-15.55.20:199][265]BlueprintEditorCompileResults: Info [9286.37] Compile of ThirdPersonExampleMap successful! [in 96 ms]
+[2016.02.16-15.56.29:913][485]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2016.02.16-15.56.29:994][485]BlueprintEditorCompileResults: Info [9356.17] Compile of ThirdPersonExampleMap successful! [in 80 ms]
+[2016.02.16-15.56.51:133][182]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2016.02.16-15.56.51:211][182]BlueprintEditorCompileResults: Info [9377.39] Compile of ThirdPersonExampleMap successful! [in 78 ms]
+[2016.02.16-15.57.10:942][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.16-15.57.11:116][240]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000126C82E80
+[2016.02.16-15.57.11:439][240]LogSavePackage: Save=322.642517ms
+[2016.02.16-15.57.11:439][240]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMapA586A9E14437329B2696E4906FC53809.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap'
+[2016.02.16-15.57.11:443][240]LogSavePackage: Total save time: 473.503798ms
+[2016.02.16-15.57.11:443][240]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap
+[2016.02.16-15.57.13:035][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.13:035][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.16-15.57.13:035][404]PIE: New page: PIE session: ThirdPersonExampleMap (16 Feb 2016 15:57:13)
+[2016.02.16-15.57.13:035][404]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.02.16-15.57.13:078][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042754s)
+[2016.02.16-15.57.13:079][404]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.02.16-15.57.13:079][404]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2016.02.16-15.57.13:079][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.044020s)
+[2016.02.16-15.57.13:113][404]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.16-15.57.13:118][404]LogInit: FAudioDevice initialized.
+[2016.02.16-15.57.13:157][404]LogWorld: Game class is 'GameMode'
+[2016.02.16-15.57.13:162][404]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.02.16-15.57.13
+[2016.02.16-15.57.13:162][404]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameSession_96 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-15.57.13:162][404]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_96 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-15.57.13:163][404]LogWorld: Bringing up level for play took: 0.004778
+[2016.02.16-15.57.13:164][404]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap 0.899
+[2016.02.16-15.57.13:164][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.13:174][404]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:198][405]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:207][406]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:215][407]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:224][408]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:232][409]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:240][410]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:248][411]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:257][412]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:265][413]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:274][414]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:282][415]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:290][416]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:299][417]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:307][418]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:315][419]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:324][420]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:332][421]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:340][422]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:348][423]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:357][424]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:365][425]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:374][426]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:382][427]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:390][428]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:398][429]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:407][430]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:415][431]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:424][432]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:432][433]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:440][434]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:448][435]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:457][436]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:465][437]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:473][438]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:482][439]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:490][440]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:498][441]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:507][442]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:515][443]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:524][444]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:532][445]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:540][446]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:548][447]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:557][448]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:565][449]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:573][450]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:582][451]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:590][452]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:598][453]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:609][454]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:615][455]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:624][456]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:632][457]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:640][458]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:648][459]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:657][460]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:665][461]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:674][462]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:682][463]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:690][464]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:699][465]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:707][466]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:715][467]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:724][468]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:732][469]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:740][470]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:749][471]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:757][472]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:765][473]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:774][474]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:782][475]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:790][476]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:799][477]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:807][478]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:815][479]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:824][480]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:832][481]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:840][482]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:848][483]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:857][484]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:865][485]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:874][486]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:882][487]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:890][488]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:899][489]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:907][490]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:915][491]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:924][492]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:932][493]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:940][494]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:948][495]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:957][496]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:965][497]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:974][498]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:982][499]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:990][500]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.13:998][501]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:007][502]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:015][503]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:024][504]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:032][505]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:040][506]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:049][507]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:057][508]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:065][509]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:074][510]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:082][511]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:090][512]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:099][513]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:107][514]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:115][515]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:123][516]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:132][517]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:140][518]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:148][519]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:157][520]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:165][521]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:174][522]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:182][523]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:190][524]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:198][525]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:207][526]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:215][527]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:224][528]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:232][529]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:240][530]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:248][531]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:257][532]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:265][533]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:273][534]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:282][535]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:290][536]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:298][537]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:307][538]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:315][539]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:324][540]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:332][541]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:340][542]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:348][543]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:357][544]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:365][545]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:374][546]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:382][547]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:390][548]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:398][549]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:407][550]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:415][551]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:424][552]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:432][553]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:440][554]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:448][555]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:457][556]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:465][557]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:474][558]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:482][559]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:490][560]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:498][561]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:507][562]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:515][563]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:524][564]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:532][565]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:540][566]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:548][567]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:557][568]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:565][569]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:574][570]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:582][571]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:590][572]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:598][573]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:607][574]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:615][575]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:624][576]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:632][577]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:640][578]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:648][579]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:657][580]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:665][581]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:674][582]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:682][583]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:690][584]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:698][585]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:707][586]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:715][587]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:724][588]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:732][589]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:740][590]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:749][591]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:757][592]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:765][593]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:774][594]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:782][595]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:790][596]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:798][597]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:807][598]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:815][599]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:824][600]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:832][601]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:840][602]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:849][603]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:857][604]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:865][605]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:874][606]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:882][607]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:890][608]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:898][609]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:907][610]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:915][611]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:924][612]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:932][613]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:940][614]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:949][615]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:957][616]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:965][617]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:974][618]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:982][619]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:991][620]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.14:999][621]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:008][622]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:016][623]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:024][624]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:033][625]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:041][626]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:049][627]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:058][628]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:066][629]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:074][630]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:083][631]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:091][632]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:099][633]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:107][634]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:116][635]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:124][636]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:132][637]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:141][638]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:149][639]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:157][640]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:166][641]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:174][642]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:182][643]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:191][644]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:199][645]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:207][646]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:216][647]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:224][648]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:232][649]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:241][650]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:249][651]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:257][652]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:266][653]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:274][654]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:282][655]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:291][656]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:299][657]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:307][658]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:316][659]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:324][660]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:332][661]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:341][662]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:349][663]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:357][664]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:366][665]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:374][666]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:382][667]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:391][668]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:399][669]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:407][670]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:416][671]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:424][672]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:432][673]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:441][674]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:449][675]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:457][676]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:466][677]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:474][678]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:482][679]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:491][680]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:499][681]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:507][682]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:516][683]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:524][684]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:532][685]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:541][686]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:549][687]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:557][688]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:566][689]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:574][690]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:582][691]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:591][692]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:599][693]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:607][694]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:616][695]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:624][696]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:632][697]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:641][698]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:649][699]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:657][700]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:666][701]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:674][702]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:682][703]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:691][704]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:699][705]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:708][706]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:716][707]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:724][708]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:733][709]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:741][710]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:749][711]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:758][712]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:766][713]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:774][714]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:783][715]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:791][716]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:799][717]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:808][718]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:816][719]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:825][720]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:833][721]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:841][722]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:849][723]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:858][724]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:866][725]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:874][726]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:883][727]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:891][728]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:899][729]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:908][730]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:916][731]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:924][732]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:932][733]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:941][734]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:949][735]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:957][736]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:966][737]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:974][738]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:982][739]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:991][740]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.15:999][741]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:007][742]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:016][743]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:024][744]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:033][745]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:041][746]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:049][747]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:058][748]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:066][749]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:074][750]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:082][751]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:091][752]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:099][753]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:108][754]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:116][755]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:124][756]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:132][757]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:141][758]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:149][759]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:158][760]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:166][761]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:174][762]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:182][763]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:191][764]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:199][765]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:208][766]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:216][767]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:224][768]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:232][769]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:241][770]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:249][771]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:257][772]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:266][773]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:274][774]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:283][775]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:291][776]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:299][777]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:308][778]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:316][779]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:324][780]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:332][781]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:341][782]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:349][783]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:358][784]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:366][785]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:374][786]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:382][787]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:391][788]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:399][789]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:407][790]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:416][791]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:424][792]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:432][793]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:441][794]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:449][795]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:457][796]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:466][797]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:474][798]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:482][799]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:491][800]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:499][801]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:507][802]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:516][803]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:524][804]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:532][805]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:541][806]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:549][807]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:557][808]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:566][809]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:574][810]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:582][811]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:591][812]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:599][813]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:607][814]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:616][815]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:624][816]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:632][817]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:641][818]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:649][819]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:657][820]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:666][821]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:674][822]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:683][823]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:691][824]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:699][825]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:708][826]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:716][827]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:724][828]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:733][829]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:741][830]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:749][831]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:758][832]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:766][833]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:774][834]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:783][835]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:791][836]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:799][837]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:808][838]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:816][839]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:824][840]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:833][841]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:841][842]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:849][843]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:857][844]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:866][845]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:874][846]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:883][847]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:891][848]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:899][849]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:907][850]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:916][851]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:924][852]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:932][853]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:941][854]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:949][855]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:957][856]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:966][857]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:974][858]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:983][859]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:991][860]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.16:999][861]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.17:007][862]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.17:016][863]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.17:024][864]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.17:032][865]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.17:041][866]PIE:Warning: Warning Mobility of LightSource_0 : LightComponent0 has to be 'Movable' if you'd like to Mobility of {0} : {1} has to be 'Movable' if you'd like to {2}. . 
+[2016.02.16-15.57.17:049][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.17:083][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.17:107][867]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000E3B7C7C0
+[2016.02.16-15.57.31:958][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.31:958][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.16-15.57.31:958][893]PIE: New page: PIE session: ThirdPersonExampleMap (16 Feb 2016 15:57:31)
+[2016.02.16-15.57.31:958][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.02.16-15.57.31:981][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022449s)
+[2016.02.16-15.57.31:982][893]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.02.16-15.57.31:982][893]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2016.02.16-15.57.31:982][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023838s)
+[2016.02.16-15.57.32:013][893]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.16-15.57.32:018][893]LogInit: FAudioDevice initialized.
+[2016.02.16-15.57.32:051][893]LogWorld: Game class is 'GameMode'
+[2016.02.16-15.57.32:055][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.02.16-15.57.32
+[2016.02.16-15.57.32:055][893]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameSession_97 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-15.57.32:056][893]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_97 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-15.57.32:056][893]LogWorld: Bringing up level for play took: 0.003551
+[2016.02.16-15.57.32:057][893]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap -0.207
+[2016.02.16-15.57.32:057][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.40:373][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.40:410][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.57.40:462][886]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005BA545E0
+[2016.02.16-15.57.58:465][614]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2016.02.16-15.57.58:521][614]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.16-15.57.58:553][614]BlueprintEditorCompileResults: Info [9444.73] Compile of ThirdPersonExampleMap successful! [in 88 ms]
+[2016.02.16-15.58.00:005][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.58.00:005][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.16-15.58.00:005][755]PIE: New page: PIE session: ThirdPersonExampleMap (16 Feb 2016 15:58:00)
+[2016.02.16-15.58.00:005][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.02.16-15.58.00:030][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024575s)
+[2016.02.16-15.58.00:031][755]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.02.16-15.58.00:031][755]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2016.02.16-15.58.00:031][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025807s)
+[2016.02.16-15.58.00:063][755]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.16-15.58.00:068][755]LogInit: FAudioDevice initialized.
+[2016.02.16-15.58.00:098][755]LogWorld: Game class is 'GameMode'
+[2016.02.16-15.58.00:102][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.02.16-15.58.00
+[2016.02.16-15.58.00:102][755]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameSession_98 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-15.58.00:102][755]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_98 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-15.58.00:103][755]LogWorld: Bringing up level for play took: 0.004403
+[2016.02.16-15.58.00:104][755]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap -0.159
+[2016.02.16-15.58.00:104][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.58.34:814][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-15.58.40:285][573]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-15.58.45:210][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-15.58.51:002][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.58.51:044][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-15.58.51:097][860]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000011F612480
+[2016.02.16-15.58.55:841][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.16-15.58.56:203][309]LogSavePackage: Save=328.103027ms
+[2016.02.16-15.58.56:203][309]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMapACF42D1D4185AAEDAF8A3F888A2E3F69.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap'
+[2016.02.16-15.58.56:205][309]LogSavePackage: Total save time: 336.507518ms
+[2016.02.16-15.58.56:205][309]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap
+[2016.02.16-16.00.16:285][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.00.16:285][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.16-16.00.16:285][291]PIE: New page: PIE session: ThirdPersonExampleMap (16 Feb 2016 16:00:16)
+[2016.02.16-16.00.16:285][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.02.16-16.00.16:309][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023375s)
+[2016.02.16-16.00.16:310][291]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.02.16-16.00.16:310][291]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2016.02.16-16.00.16:310][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024933s)
+[2016.02.16-16.00.16:347][291]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000FAB1BB00
+[2016.02.16-16.00.16:347][291]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.16-16.00.16:353][291]LogInit: FAudioDevice initialized.
+[2016.02.16-16.00.16:385][291]LogWorld: Game class is 'GameMode'
+[2016.02.16-16.00.16:390][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.02.16-16.00.16
+[2016.02.16-16.00.16:390][291]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameSession_99 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.00.16:390][291]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_99 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.00.16:390][291]LogWorld: Bringing up level for play took: 0.004365
+[2016.02.16-16.00.16:391][291]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap 0.132
+[2016.02.16-16.00.16:391][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.00.21:701][925]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.28:151][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.35:805][617]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:069][128]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:078][129]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:086][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:094][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:103][132]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:111][133]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:119][134]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:128][135]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:136][136]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:144][137]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:153][138]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:161][139]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:169][140]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:178][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:186][142]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:194][143]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:203][144]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:211][145]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:219][146]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:228][147]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:236][148]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:244][149]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:253][150]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:261][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:269][152]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:278][153]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:286][154]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:294][155]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:303][156]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:311][157]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:319][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:328][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:336][160]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:344][161]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:353][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:361][163]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:369][164]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:378][165]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:386][166]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:394][167]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:403][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:411][169]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:419][170]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.40:428][171]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.42:421][410]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.00.54:104][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.00.54:145][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.00.54:169][812]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000C0D980E0
+[2016.02.16-16.08.39:560][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.08.39:560][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.16-16.08.39:560][162]PIE: New page: PIE session: ThirdPersonExampleMap (16 Feb 2016 16:08:39)
+[2016.02.16-16.08.39:560][162]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.02.16-16.08.39:582][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021951s)
+[2016.02.16-16.08.39:583][162]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.02.16-16.08.39:583][162]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2016.02.16-16.08.39:584][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023219s)
+[2016.02.16-16.08.39:621][162]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.16-16.08.39:626][162]LogInit: FAudioDevice initialized.
+[2016.02.16-16.08.39:656][162]LogWorld: Game class is 'GameMode'
+[2016.02.16-16.08.39:660][162]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.02.16-16.08.39
+[2016.02.16-16.08.39:661][162]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameSession_100 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.08.39:661][162]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_100 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.08.39:661][162]LogWorld: Bringing up level for play took: 0.003693
+[2016.02.16-16.08.39:662][162]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap -0.58
+[2016.02.16-16.08.39:662][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.08.43:846][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.08.50:112][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.08.54:537][944]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.09.02:312][877]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.09.13:848][261]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.09.16:331][559]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.09.16:373][559]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.09.16:425][560]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000010431B600
+[2016.02.16-16.09.19:634][753]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2016.02.16-16.10.39:570][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.16-16.10.40:756][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2016.02.16-16.13.51:445][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2016.02.16-16.13.52:343][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.16-16.13.54:149][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2016.02.16-16.13.55:210][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2016.02.16-16.13.57:079][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2016.02.16-16.13.58:149][551]LogEditorViewport: Clicking on Actor (LMB): MovableObj_C (MovableObj)
+[2016.02.16-16.27.21:727][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.27.21:727][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.16-16.27.21:727][629]PIE: New page: PIE session: ThirdPersonExampleMap (16 Feb 2016 16:27:21)
+[2016.02.16-16.27.21:727][629]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.02.16-16.27.21:750][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023136s)
+[2016.02.16-16.27.21:751][629]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.02.16-16.27.21:752][629]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2016.02.16-16.27.21:752][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024581s)
+[2016.02.16-16.27.21:777][629]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000010431A840
+[2016.02.16-16.27.21:785][629]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000010431A0C0
+[2016.02.16-16.27.21:785][629]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.16-16.27.21:791][629]LogInit: FAudioDevice initialized.
+[2016.02.16-16.27.21:822][629]LogWorld: Game class is 'GameMode'
+[2016.02.16-16.27.21:826][629]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.02.16-16.27.21
+[2016.02.16-16.27.21:826][629]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameSession_101 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.27.21:826][629]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_101 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.27.21:826][629]LogWorld: Bringing up level for play took: 0.003640
+[2016.02.16-16.27.21:827][629]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap -0.482
+[2016.02.16-16.27.21:828][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.27.25:828][106]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.27.33:173][987]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.27.42:516][108]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.28.00:067][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.28.00:116][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.28.00:140][210]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000008215CEA0
+[2016.02.16-16.28.03:106][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.28.03:106][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.16-16.28.03:106][477]PIE: New page: PIE session: ThirdPersonExampleMap (16 Feb 2016 16:28:03)
+[2016.02.16-16.28.03:106][477]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.02.16-16.28.03:129][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022608s)
+[2016.02.16-16.28.03:129][477]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.02.16-16.28.03:130][477]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2016.02.16-16.28.03:130][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023900s)
+[2016.02.16-16.28.03:159][477]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.02.16-16.28.03:163][477]LogInit: FAudioDevice initialized.
+[2016.02.16-16.28.03:195][477]LogWorld: Game class is 'GameMode'
+[2016.02.16-16.28.03:199][477]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.02.16-16.28.03
+[2016.02.16-16.28.03:199][477]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameSession_102 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.28.03:199][477]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_102 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.16-16.28.03:200][477]LogWorld: Bringing up level for play took: 0.003621
+[2016.02.16-16.28.03:201][477]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap 0.888
+[2016.02.16-16.28.03:201][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.28.12:032][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.16-16.28.17:199][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.28.17:241][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.16-16.28.17:289][152]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000FD7A04A0
+[2016.02.16-16.29.02:961][236]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2016.02.16-16.29.08:784][847]Cmd: SELECT NONE
+[2016.02.16-16.29.14:278][431]Cmd: QUIT_EDITOR
+[2016.02.16-16.29.14:418][431]LogExit: Preparing to exit.
+[2016.02.16-16.29.14:704][431]LogExit: Editor shut down
+[2016.02.16-16.29.14:704][431]LogExit: Transaction tracking system shut down
+[2016.02.16-16.29.14:705][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002B2CA700
+[2016.02.16-16.29.14:705][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000319F22A0
+[2016.02.16-16.29.14:705][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001EC0ADE0
+[2016.02.16-16.29.14:705][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000017D0E0C0
+[2016.02.16-16.29.14:710][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000029FEDDA0
+[2016.02.16-16.29.14:711][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000783263E0
+[2016.02.16-16.29.14:711][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000078326200
+[2016.02.16-16.29.14:711][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000754FAC00
+[2016.02.16-16.29.14:711][431]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000E0426FC0
+[2016.02.16-16.29.14:908][431]LogExit: Object subsystem successfully closed.
+[2016.02.16-16.29.14:917][431]LogD3D11RHI: Shutdown
+[2016.02.16-16.29.14:917][431]LogD3D11RHI: CleanupD3DDevice
+[2016.02.16-16.29.14:996][431]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.02.16-16.29.15:010][431]LogModuleManager: Shutting down and abandoning module CookingStats (202)
+[2016.02.16-16.29.15:010][431]LogModuleManager: Shutting down and abandoning module BlueprintGraph (201)
+[2016.02.16-16.29.15:010][431]LogModuleManager: Shutting down and abandoning module CrashTracker (200)
+[2016.02.16-16.29.15:010][431]LogModuleManager: Shutting down and abandoning module SceneOutliner (199)
+[2016.02.16-16.29.15:010][431]LogModuleManager: Shutting down and abandoning module SuperSearch (198)
+[2016.02.16-16.29.15:010][431]LogModuleManager: Shutting down and abandoning module WidgetCarousel (197)
+[2016.02.16-16.29.15:010][431]LogModuleManager: Shutting down and abandoning module AddContentDialog (196)
+[2016.02.16-16.29.15:011][431]LogModuleManager: Shutting down and abandoning module EditorWidgets (195)
+[2016.02.16-16.29.15:011][431]LogModuleManager: Shutting down and abandoning module CollectionManager (194)
+[2016.02.16-16.29.15:011][431]LogModuleManager: Shutting down and abandoning module StatsViewer (193)
+[2016.02.16-16.29.15:011][431]LogModuleManager: Shutting down and abandoning module FoliageEdit (192)
+[2016.02.16-16.29.15:011][431]LogModuleManager: Shutting down and abandoning module LandscapeEditor (191)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module ActorPickerMode (190)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module GeometryMode (189)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module TextureAlignMode (188)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module BspMode (187)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module PlacementMode (186)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module AutomationWorker (185)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module CharacterAI (184)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module SmartSnapping (183)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module ViewportSnapping (182)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module LogVisualizer (181)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (180)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module IntroTutorials (179)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (178)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (177)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (176)
+[2016.02.16-16.29.15:012][431]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (175)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (174)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (173)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (172)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module MergeActors (171)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module SizeMap (170)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module TreeMap (169)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module ReferenceViewer (168)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module LocalizationService (167)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (166)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module HardwareTargeting (165)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (164)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module UndoHistory (163)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (162)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module UserFeedback (161)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module XmlParser (160)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module Blutility (159)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (158)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (157)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module InputBindingEditor (156)
+[2016.02.16-16.29.15:980][431]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (155)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module SettingsEditor (154)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module ProjectLauncher (153)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module SessionFrontend (152)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module ProfilerClient (151)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (150)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module DeviceManager (149)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module AutomationController (148)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module AutomationWindow (147)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module Layers (146)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (145)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module DetailCustomizations (144)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module PackagesDialog (143)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module Persona (142)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module Kismet (141)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module GraphEditor (140)
+[2016.02.16-16.29.15:981][431]LogModuleManager: Shutting down and abandoning module ClassViewer (139)
+[2016.02.16-16.29.15:982][431]LogModuleManager: Shutting down and abandoning module Toolbox (138)
+[2016.02.16-16.29.15:982][431]LogModuleManager: Shutting down and abandoning module ModuleUI (137)
+[2016.02.16-16.29.15:982][431]LogModuleManager: Shutting down and abandoning module MovieSceneTools (136)
+[2016.02.16-16.29.15:982][431]LogModuleManager: Shutting down and abandoning module OutputLog (135)
+[2016.02.16-16.29.15:982][431]LogModuleManager: Shutting down and abandoning module GammaUI (134)
+[2016.02.16-16.29.15:982][431]LogModuleManager: Shutting down and abandoning module Documentation (133)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (132)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (131)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module AnalyticsET (130)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module Analytics (129)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module AITestSuite (128)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module GameplayDebugger (127)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module AIModule (126)
+[2016.02.16-16.29.15:983][431]LogModuleManager: Shutting down and abandoning module ProfilerService (125)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module TaskGraph (124)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module SubstanceEditor (123)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module SlateRemote (122)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module SteamVRController (121)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module SteamVR (120)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (119)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module OculusLibrary (118)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module OculusInput (117)
+[2016.02.16-16.29.16:075][431]LogModuleManager: Shutting down and abandoning module LeapMotionController (116)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (115)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module CableComponent (114)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (113)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module MessagingDebugger (112)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (111)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module HTML5Networking (110)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (109)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module PluginBrowser (108)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module EpicSurvey (107)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module DesktopPlatform (106)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (105)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module UObjectPlugin (104)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (103)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (102)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module SourceControl (101)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module GitSourceControl (100)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (99)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (98)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (97)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module MeshPaint (96)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module SlateReflector (95)
+[2016.02.16-16.29.16:084][431]LogModuleManager: Shutting down and abandoning module HotReload (94)
+[2016.02.16-16.29.16:085][431]LogModuleManager: Shutting down and abandoning module MainFrame (93)
+[2016.02.16-16.29.16:085][431]LogModuleManager: Shutting down and abandoning module LevelEditor (92)
+[2016.02.16-16.29.16:087][431]LogModuleManager: Shutting down and abandoning module ContentBrowser (91)
+[2016.02.16-16.29.16:087][431]LogModuleManager: Shutting down and abandoning module Paper2DEditor (90)
+[2016.02.16-16.29.16:087][431]LogModuleManager: Shutting down and abandoning module UdpMessaging (89)
+[2016.02.16-16.29.16:187][431]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2016.02.16-16.29.16:187][431]LogModuleManager: Shutting down and abandoning module AssetRegistry (87)
+[2016.02.16-16.29.16:273][431]LogModuleManager: Shutting down and abandoning module SubstanceCore (86)
+[2016.02.16-16.29.16:273][431]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (85)
+[2016.02.16-16.29.16:273][431]LogModuleManager: Shutting down and abandoning module Paper2D (84)
+[2016.02.16-16.29.16:273][431]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (83)
+[2016.02.16-16.29.16:276][431]LogModuleManager: Shutting down and abandoning module Media (82)
+[2016.02.16-16.29.16:276][431]LogModuleManager: Shutting down and abandoning module WmfMedia (81)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (79)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module PropertyEditor (78)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (77)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module FunctionalTesting (76)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (75)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (74)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module MessageLog (73)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module Sequencer (72)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module AssetTools (71)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module UMGEditor (70)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module UMG (69)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module Slate (68)
+[2016.02.16-16.29.16:277][431]LogModuleManager: Shutting down and abandoning module EditorStyle (67)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module SessionServices (66)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (65)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (64)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module XAudio2 (63)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module Networking (61)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module Core (60)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module KismetCompiler (59)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module PhysXFormats (58)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module MeshUtilities (57)
+[2016.02.16-16.29.16:279][431]LogModuleManager: Shutting down and abandoning module DerivedDataCache (56)
+[2016.02.16-16.29.16:290][431]LogDerivedDataCache: Shutdown
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (55)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (54)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (53)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (52)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (51)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (50)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (49)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module ImageWrapper (48)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (47)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (46)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (45)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (44)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (43)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (42)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (41)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (40)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.02.16-16.29.16:290][431]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.02.16-16.29.17:290][431]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.02.16-16.29.17:290][431]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.02.16-16.29.17:290][431]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.02.16-16.29.17:290][431]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.02.16-16.29.17:290][431]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.02.16-16.29.17:290][431]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.02.16-16.29.17:290][431]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.02.16-16.29.17:294][431]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.02.16-16.29.17:294][431]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.02.16-16.29.17:294][431]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.02.16-16.29.17:295][431]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.02.16-16.29.17:295][431]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.02.16-16.29.17:295][431]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.02.16-16.29.17:295][431]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.02.16-16.29.17:295][431]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.02.16-16.29.17:295][431]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.02.16-16.29.17:295][431]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.02.16-16.29.17:296][431]LogExit: Exiting.
+[2016.02.16-16.29.17:309][431]Log file closed, 02/16/16 16:29:17
