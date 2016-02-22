@@ -3068,4 +3068,1104 @@
 [2016.02.22-12.33.32:072][243]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.GameNetworkManager_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
 [2016.02.22-12.33.32:093][243]LogWorld: Bringing up level for play took: 0.039655
 [2016.02.22-12.33.32:157][243]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap -0.046
-[2016.02.22-12.33.32:158][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampl
+[2016.02.22-12.33.32:158][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.22-12.35.15:817][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.22-12.35.16:333][871]LogSavePackage: Save=383.350647ms
+[2016.02.22-12.35.16:333][871]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/ThirdPersonExampleMap43BD97CA4BD341F646FB70A7D3031141.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Maps/ThirdPersonExampleMap.umap'
+[2016.02.22-12.35.16:337][871]LogSavePackage: Total save time: 507.672649ms
+[2016.02.22-12.35.16:337][871]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Maps/ThirdPersonExampleMap.umap
+[2016.02.22-12.35.16:383][871]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.618
+[2016.02.22-12.35.16:397][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/textures/grass1_basecolor" FILE="J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/textures/grass1_basecolor.uasset" SILENT=true
+[2016.02.22-12.35.16:424][871]LogSavePackage: Save=25.618042ms
+[2016.02.22-12.35.16:424][871]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/grass1_basecolorA47332DF48E032A6DC543FBFA9C43227.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/textures/grass1_basecolor.uasset'
+[2016.02.22-12.35.16:426][871]LogSavePackage: Total save time: 27.004760ms
+[2016.02.22-12.35.16:426][871]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/textures/grass1_basecolor.uasset
+[2016.02.22-12.35.18:809][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.22-12.35.19:211][ 79]LogSavePackage: Save=361.742920ms
+[2016.02.22-12.35.19:211][ 79]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/ThirdPersonExampleMapC01AC2984ADC88772068449B41E33639.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Maps/ThirdPersonExampleMap.umap'
+[2016.02.22-12.35.19:243][ 79]LogSavePackage: Total save time: 397.837855ms
+[2016.02.22-12.35.19:243][ 79]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Maps/ThirdPersonExampleMap.umap
+[2016.02.22-12.35.19:305][ 81]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 425/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-12.38.15:851][105]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.18:627][404]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.29:406][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.32:628][ 64]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.32:637][ 65]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.32:645][ 66]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.32:653][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.32:661][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.34:895][331]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:833][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:900][653]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:909][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:917][655]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:926][656]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:933][657]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:942][658]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:950][659]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:959][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:967][661]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:975][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:983][663]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.37:992][664]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:000][665]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:009][666]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:017][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:025][668]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:033][669]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:042][670]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:050][671]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:058][672]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:067][673]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:075][674]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:084][675]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:092][676]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:100][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:108][678]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:117][679]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:125][680]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:134][681]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:142][682]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:150][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:159][684]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:167][685]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:175][686]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:184][687]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:192][688]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:200][689]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:209][690]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:217][691]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:226][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:234][693]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:242][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:251][695]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:259][696]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:267][697]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:276][698]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:284][699]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:292][700]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:300][701]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.38:309][702]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.41:000][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.41:950][138]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.41:958][139]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.41:967][140]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.41:975][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.41:983][142]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.42:691][227]LogBlueprintUserMessages: [ThirdPersonCharacter_C_14] TRUE
+[2016.02.22-12.38.44:828][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.22-12.38.45:339][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.02.22-12.38.45:444][432]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000A67D9A9940
+[2016.02.22-12.38.45:885][434]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.07.58:610][433]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 472/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.08.14:811][947]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 472/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.08.17:952][114]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 472/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.08.27:748][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.22-13.08.28:282][488]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 417/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.08.35:987][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.22-13.08.41:070][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.22-13.09.06:171][ 20]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.22-13.09.06:819][ 20]LogSavePackage: Save=486.283966ms
+[2016.02.22-13.09.06:819][ 20]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/ThirdPersonExampleMap_Auto857685803492E4ECF69BDDC8AEAEC0567.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2016.02.22-13.09.06:821][ 20]LogSavePackage: Total save time: 619.366717ms
+[2016.02.22-13.09.06:821][ 20]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto8.umap
+[2016.02.22-13.09.06:826][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.655
+[2016.02.22-13.09.06:826][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.655
+[2016.02.22-13.14.47:604][576]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.14.47:658][576]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.14.47:662][576]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.14.47:820][578]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 445/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.14.50:699][760]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.14.50:699][760]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.14.50:699][760]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.03:985][885]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.03:988][885]LogMaterial: 0.000049 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.03:989][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2016.02.22-13.15.04:018][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2016.02.22-13.15.04:570][920]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.04:570][920]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.04:570][920]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.07:790][222]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.07:793][222]LogMaterial: 0.000043 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.08:313][256]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.08:313][256]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.08:313][256]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.11:184][520]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.11:187][520]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.11:188][520]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2016.02.22-13.15.11:734][557]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.11:734][557]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.11:734][557]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.13:347][704]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.13:350][704]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.13:881][738]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.13:881][738]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.13:881][738]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.14:680][810]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.14:683][810]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.14:711][810]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2016.02.22-13.15.14:714][810]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2016.02.22-13.15.15:259][845]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.15:259][845]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.15:259][845]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.15:908][903]LogEditorTransaction: Undo Material Editor: Paste
+[2016.02.22-13.15.15:911][903]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.15:921][903]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.15:924][903]LogMaterial: 0.000027 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.16:906][932]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.16:906][932]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.16:906][932]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.24:539][607]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.24:542][607]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.25:127][647]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.25:127][647]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.25:127][647]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.26:318][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.02.22-13.15.30:750][141]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.30:753][141]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.30:781][141]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.02.22-13.15.31:363][179]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.31:363][179]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.31:363][179]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.15.38:771][868]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.15.38:774][868]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.15.39:285][881]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.15.39:285][881]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.15.39:285][881]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.16.11:503][ 24]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 464/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.16.14:468][295]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.16.14:471][295]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.16.15:318][358]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.16.15:318][358]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.16.15:318][358]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.16.49:624][393]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 464/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.17.02:695][788]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.17.09:801][428]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.17.12:662][692]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.12:665][692]LogMaterial: 0.000042 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.12:690][692]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.17.13:421][744]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.17.13:421][744]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.17.13:421][744]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.17.16:030][993]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.16:033][993]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.16:084][993]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.17.16:088][993]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.02.22-13.17.16:693][ 34]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.17.16:693][ 34]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.17.16:693][ 34]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.17.17:437][ 98]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.17:440][ 98]LogMaterial: 0.000042 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.17:496][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2016.02.22-13.17.17:500][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.17.18:176][140]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.17.18:176][140]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.17.18:176][140]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.17.34:421][658]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.34:425][658]LogMaterial: 0.000075 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.34:453][658]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2016.02.22-13.17.35:169][701]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2016.02.22-13.17.35:169][701]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.17.35:169][701]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.17.36:894][869]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.37:204][869]LogMaterial: 0.000130 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.37:844][916]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.37:850][916]LogMaterial: 0.000023 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.37:939][922]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 46 instructions
+[2016.02.22-13.17.37:939][922]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.17.37:939][922]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.17.40:756][180]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.40:759][180]LogMaterial: 0.000036 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.41:435][231]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.17.41:436][231]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.17.41:436][231]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.17.47:361][808]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.47:364][808]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.48:102][864]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.17.48:102][864]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.17.48:102][864]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.17.56:436][655]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.56:445][655]LogMaterial: 0.000165 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.56:476][655]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.17.56:535][657]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.17.56:540][657]LogMaterial: 0.000080 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.17.56:572][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.17.57:411][718]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.17.57:411][718]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.17.57:411][718]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.04:587][405]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.04:589][405]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.05:344][463]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.05:344][463]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.05:344][463]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.09:249][851]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.09:253][851]LogMaterial: 0.000117 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.10:003][908]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.10:003][908]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.10:003][908]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.16:053][512]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.16:056][512]LogMaterial: 0.000048 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.16:081][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.18.16:738][559]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.16:738][559]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.16:738][559]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.17:239][608]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.17:243][608]LogMaterial: 0.000086 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.17:271][608]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.18.17:908][654]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.17:908][654]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.17:908][654]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.23:920][234]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.23:922][234]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.23:950][234]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.18.24:603][280]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.24:603][280]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.24:603][280]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.26:250][442]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.26:254][442]LogMaterial: 0.000048 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.26:281][442]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.18.26:905][486]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.26:905][486]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.26:905][486]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.34:712][256]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.34:715][256]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.35:358][306]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.35:358][306]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.35:358][306]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.39:968][773]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.39:971][773]LogMaterial: 0.000049 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.40:619][822]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.40:619][822]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.40:619][822]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.44:920][246]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.44:923][246]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.45:588][297]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.45:588][297]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.45:588][297]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.50:078][757]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.50:081][757]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.50:728][807]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.50:728][807]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.50:728][807]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.18.56:814][415]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.18.56:817][415]LogMaterial: 0.000048 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.18.57:499][467]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.18.57:499][467]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.18.57:499][467]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.00:721][783]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.00:724][783]LogMaterial: 0.000038 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.01:406][835]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.01:406][835]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.01:406][835]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.03:611][ 58]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.03:613][ 58]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.04:310][112]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.04:310][112]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.04:310][112]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.08:917][564]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.08:921][564]LogMaterial: 0.000063 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.08:952][564]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.19.09:655][614]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.09:655][614]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.09:655][614]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.13:366][968]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.13:369][968]LogMaterial: 0.000056 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.13:398][968]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.19.14:065][ 17]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.14:066][ 17]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.14:066][ 17]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.25:512][404]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.19.29:583][775]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.29:587][775]LogMaterial: 0.000085 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.29:611][775]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.02.22-13.19.30:287][824]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.30:287][824]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.30:287][824]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.30:414][835]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.30:417][835]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.30:449][835]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2016.02.22-13.19.31:089][881]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.31:089][881]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.31:089][881]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.44:858][228]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.44:861][228]LogMaterial: 0.000037 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.44:862][228]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.19.45:537][274]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.45:537][274]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.45:537][274]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.46:747][388]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.46:750][388]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.46:775][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.19.47:518][438]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.47:518][438]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.47:518][438]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.50:921][756]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.50:924][756]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.50:952][756]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.19.51:682][807]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.51:682][807]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.51:682][807]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.51:752][812]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.51:756][812]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.51:784][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.19.52:470][860]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.52:470][860]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.52:470][860]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.54:668][ 70]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.54:671][ 70]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.54:701][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.19.55:398][118]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.55:398][118]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.55:398][118]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.55:470][123]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.55:472][123]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.55:500][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.19.56:164][169]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.56:164][169]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.56:164][169]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.19.57:264][273]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.19.57:267][273]LogMaterial: 0.000090 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.19.57:295][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.19.58:036][325]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.19.58:036][325]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.19.58:036][325]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.09:631][397]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.09:635][397]LogMaterial: 0.000037 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.09:661][397]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.20.10:368][445]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.10:368][445]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.10:368][445]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.23:363][733]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.23:367][733]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.23:392][733]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.20.24:066][782]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.24:066][782]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.24:066][782]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.24:331][806]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.24:334][806]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.24:363][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_1, compiling. 
+[2016.02.22-13.20.25:126][859]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.25:126][859]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.25:126][859]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.31:416][471]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.31:419][471]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.32:076][522]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.32:076][522]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.32:076][522]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.34:702][781]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.34:705][781]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.35:377][832]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.35:377][832]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.35:377][832]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.36:952][994]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.36:954][994]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.37:574][ 43]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.37:574][ 43]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.37:574][ 43]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.44:938][766]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.44:941][766]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.45:598][816]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.45:598][816]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.45:598][816]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.48:998][155]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.49:001][155]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.49:728][210]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.49:728][210]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.49:728][210]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.20.59:043][119]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.20.59:047][119]LogMaterial: 0.000043 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.20.59:698][165]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.20.59:698][165]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.20.59:698][165]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.01:020][294]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.01:023][294]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.01:783][350]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.01:783][350]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.01:783][350]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.15:330][682]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Water:MaterialGraph_7.MaterialGraphNode_178 or MaterialGraphNode /Engine/Transient.Water:MaterialGraph_7.MaterialGraphNode_178
+[2016.02.22-13.21.15:330][682]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'MaterialGraphNode_183.EdGraphPin_10990''
+[2016.02.22-13.21.15:330][682]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'MaterialGraphNode_182.EdGraphPin_10988''
+[2016.02.22-13.21.15:330][682]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureCoordinate'MaterialGraphNode_182.MaterialExpressionTextureCoordinate_1')'
+[2016.02.22-13.21.15:330][682]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionCosine'MaterialGraphNode_183.MaterialExpressionCosine_1')'
+[2016.02.22-13.21.15:333][682]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'MaterialGraphNode_184.EdGraphPin_10991''
+[2016.02.22-13.21.15:333][682]LogProperty:Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'MaterialGraphNode_184.MaterialExpressionTime_1')'
+[2016.02.22-13.21.15:339][682]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.15:343][682]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.15:399][682]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2016.02.22-13.21.15:402][682]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.21.15:406][682]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.21.15:411][682]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.21.16:029][720]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.16:029][720]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.16:029][720]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.20:948][143]LogUObjectHash:Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Water:MaterialGraph_7.MaterialGraphNode_178 or MaterialGraphNode /Engine/Transient.Water:MaterialGraph_7.MaterialGraphNode_178
+[2016.02.22-13.21.20:956][143]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.20:958][143]LogMaterial: 0.000050 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.21:036][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2016.02.22-13.21.21:038][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.21.21:042][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.21.21:045][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2016.02.22-13.21.21:671][179]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.21:671][179]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.21:671][179]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.24:324][398]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.24:327][398]LogMaterial: 0.000037 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.24:379][398]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.21.24:382][398]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2016.02.22-13.21.25:072][439]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.25:073][439]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.25:073][439]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.28:529][754]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.28:532][754]LogMaterial: 0.000043 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.28:560][754]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.21.29:291][801]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.29:291][801]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.29:291][801]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.35:284][367]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.35:286][367]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.35:314][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.21.35:913][409]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.35:913][409]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.35:913][409]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.41:133][877]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.41:136][877]LogMaterial: 0.000040 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.41:934][927]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.41:934][927]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.41:934][927]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.44:050][116]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.44:053][116]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.44:083][116]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2016.02.22-13.21.44:808][162]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.44:808][162]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.44:808][162]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.46:389][302]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.46:392][302]LogMaterial: 0.000048 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.46:417][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2016.02.22-13.21.47:061][343]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 47 instructions
+[2016.02.22-13.21.47:061][343]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.47:061][343]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.21.49:758][587]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.21.49:760][587]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.21.50:426][629]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.21.50:426][629]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.21.50:426][629]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.22.08:766][318]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.22.08:769][318]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.22.08:795][318]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.22.09:579][370]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.22.09:579][370]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.22.09:579][370]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.22.09:615][372]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.22.09:618][372]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.22.09:645][372]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.22.10:338][417]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.22.10:338][417]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.22.10:338][417]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.22.16:856][ 13]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.22.16:860][ 13]LogMaterial: 0.000059 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.22.16:888][ 13]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.22.17:634][ 59]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.22.17:634][ 59]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.22.17:634][ 59]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.22.17:836][ 74]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.22.17:839][ 74]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.22.17:871][ 74]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.22.18:615][121]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.22.18:615][121]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.22.18:615][121]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.22.21:326][357]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.22.21:330][357]LogMaterial: 0.000112 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.22.21:356][357]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.22.22:058][402]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.22.22:058][402]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.22.22:058][402]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.22.22:220][415]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.22.22:222][415]LogMaterial: 0.000072 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.22.22:253][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.22.23:021][462]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.22.23:021][462]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.22.23:021][462]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.22.28:821][988]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_18, compiling. 
+[2016.02.22-13.23.06:004][283]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.23.12:416][871]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.12:419][871]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.12:477][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.23.12:480][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_18, compiling. 
+[2016.02.22-13.23.13:419][932]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.13:422][932]LogMaterial: 0.000026 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.13:448][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.23.13:470][933]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.23.13:470][933]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.23.13:470][933]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.23.15:909][121]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.15:914][121]LogMaterial: 0.000071 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.15:939][121]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.23.16:632][166]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.23.16:632][166]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.23.16:632][166]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.23.16:859][185]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.16:863][185]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.16:888][185]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.23.17:613][232]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.23.17:613][232]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.23.17:613][232]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.23.45:970][120]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.23.49:869][463]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.49:874][463]LogMaterial: 0.000073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.49:902][463]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.23.51:034][536]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.51:038][536]LogMaterial: 0.000076 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.51:067][536]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.23.51:958][590]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.23.51:958][590]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.23.51:958][590]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.23.52:660][647]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.52:663][647]LogMaterial: 0.000049 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.52:691][647]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.23.53:400][692]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.23.53:400][692]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.23.53:400][692]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.23.53:569][706]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.23.53:573][706]LogMaterial: 0.000138 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.23.53:598][706]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.23.54:309][749]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.23.54:309][749]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.23.54:309][749]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.01:216][348]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.01:219][348]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.01:246][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2016.02.22-13.24.01:249][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2016.02.22-13.24.02:048][393]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.24.02:048][393]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.24.02:048][393]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.06:263][741]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2016.02.22-13.24.08:079][893]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.08:081][893]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.08:738][931]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.24.08:738][931]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.24.08:738][931]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.29:844][590]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.24.35:989][164]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.35:993][164]LogMaterial: 0.000056 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.37:070][241]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.24.37:070][241]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.24.37:070][241]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.39:578][469]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.39:582][469]LogMaterial: 0.000049 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.40:381][520]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.24.40:381][520]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.24.40:381][520]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.47:315][150]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.47:318][150]LogMaterial: 0.000061 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.47:344][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2016.02.22-13.24.48:102][199]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.24.48:102][199]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.24.48:102][199]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.52:747][590]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.52:750][590]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.53:614][638]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.24.53:614][638]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.24.53:614][638]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.57:488][941]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.57:490][941]LogMaterial: 0.000036 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.58:257][988]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.24.58:257][988]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.24.58:257][988]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.24.59:535][ 95]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.24.59:538][ 95]LogMaterial: 0.000037 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.24.59:563][ 95]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_18, compiling. 
+[2016.02.22-13.25.00:323][144]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.00:323][144]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.00:323][144]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.02:026][293]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.02:029][293]LogMaterial: 0.000063 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.02:815][345]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.02:815][345]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.02:815][345]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.04:239][472]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.04:242][472]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.05:009][524]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.05:009][524]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.05:009][524]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.06:492][658]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.06:495][658]LogMaterial: 0.000038 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.06:979][689]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.06:983][689]LogMaterial: 0.000033 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.07:764][742]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.07:764][742]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.07:764][742]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.10:561][991]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.12:433][152]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.12:436][152]LogMaterial: 0.000035 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.12:465][152]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.13:232][201]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.13:232][201]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.13:232][201]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.14:237][286]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.14:240][286]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.14:269][286]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.15:061][336]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.15:061][336]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.15:061][336]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.15:838][404]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.15:842][404]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.15:869][404]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.16:408][438]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.16:413][438]LogMaterial: 0.000079 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.16:444][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.16:542][444]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.16:542][444]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.16:542][444]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.16:787][459]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.16:788][459]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Water for platform PCD3D_SM5, Default Material will be used in game.
+[2016.02.22-13.25.16:788][459]LogMaterial:Warning: 	(Node ComponentMask) Couldn't determine result type of component mask 0000
+[2016.02.22-13.25.16:788][459]LogMaterial: 0.000060 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.16:814][459]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.16:816][459]MaterialEditorStats:Error: Error [SM5] (Node ComponentMask) Couldn't determine result type of component mask 0000
+[2016.02.22-13.25.17:210][489]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.17:215][489]LogMaterial: 0.000028 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.17:240][489]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.18:038][536]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.18:038][536]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.18:038][536]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.18:775][594]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.18:775][594]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Water for platform PCD3D_SM5, Default Material will be used in game.
+[2016.02.22-13.25.18:775][594]LogMaterial:Warning: 	(Node ComponentMask) Couldn't determine result type of component mask 0000
+[2016.02.22-13.25.18:775][594]LogMaterial: 0.000058 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.18:805][594]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.18:805][594]MaterialEditorStats:Error: Error [SM5] (Node ComponentMask) Couldn't determine result type of component mask 0000
+[2016.02.22-13.25.19:669][669]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.19:672][669]LogMaterial: 0.000022 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.19:703][669]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionComponentMask_2, compiling. 
+[2016.02.22-13.25.20:460][717]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.20:460][717]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.20:460][717]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.45:490][848]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.45:494][848]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.45:519][848]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_18, compiling. 
+[2016.02.22-13.25.46:706][926]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.46:706][926]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.46:706][926]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.25.51:258][321]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.25.51:261][321]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.25.51:290][321]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_18, compiling. 
+[2016.02.22-13.25.52:078][369]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.25.52:078][369]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.25.52:078][369]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.09:612][237]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.26.10:711][328]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.10:715][328]LogMaterial: 0.000066 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.11:440][375]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.26.11:440][375]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.11:440][375]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.12:451][465]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.12:454][465]LogMaterial: 0.000048 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.13:110][510]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.26.13:110][510]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.13:110][510]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.14:944][672]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.14:947][672]LogMaterial: 0.000038 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.15:727][726]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.02.22-13.26.15:727][726]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.15:727][726]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.16:593][804]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.16:598][804]LogMaterial: 0.000058 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.17:391][861]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.02.22-13.26.17:391][861]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.17:391][861]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.20:441][152]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.20:444][152]LogMaterial: 0.000043 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.21:228][206]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.26.21:228][206]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.21:228][206]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.28:724][893]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.28:727][893]LogMaterial: 0.000036 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.29:449][942]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.02.22-13.26.29:449][942]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.29:449][942]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.34:553][415]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.34:556][415]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.35:255][463]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.02.22-13.26.35:255][463]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.35:255][463]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.36:307][555]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.36:311][555]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.37:063][605]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.26.37:063][605]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.37:063][605]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.39:634][831]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.39:637][831]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.40:398][877]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.26.40:398][877]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.40:398][877]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.42:611][ 76]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.42:614][ 76]LogMaterial: 0.000066 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.43:377][130]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.02.22-13.26.43:377][130]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.43:377][130]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.44:155][201]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.44:158][201]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.44:858][249]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.02.22-13.26.44:858][249]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.44:858][249]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.26.53:097][ 18]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.26.53:100][ 18]LogMaterial: 0.000037 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.26.53:783][ 67]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.26.53:783][ 67]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.26.53:783][ 67]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.27.12:440][158]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.27.13:376][248]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.27.13:379][248]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.27.14:044][288]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.27.14:044][288]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.27.14:044][288]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.27.14:148][297]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.27.14:151][297]LogMaterial: 0.000050 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.27.14:751][340]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.27.14:751][340]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.27.14:751][340]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.27.15:537][415]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.27.15:540][415]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.27.16:139][460]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.27.16:139][460]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.27.16:139][460]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.27.19:214][763]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.27.19:217][763]LogMaterial: 0.000037 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.27.19:823][802]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.27.19:823][802]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.27.19:823][802]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.27.39:842][689]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.27.39:845][689]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.27.40:759][763]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.27.40:759][763]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.27.40:759][763]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.27.44:300][117]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.27.44:303][117]LogMaterial: 0.000040 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.27.44:908][162]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.27.44:908][162]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.27.44:908][162]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.27.56:217][383]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.28.00:313][781]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.00:316][781]LogMaterial: 0.000058 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.00:344][781]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2016.02.22-13.28.00:931][822]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.28.00:931][822]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.00:931][822]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.01:456][871]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.01:459][871]LogMaterial: 0.000048 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.01:486][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_3, compiling. 
+[2016.02.22-13.28.02:071][912]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.28.02:071][912]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.02:071][912]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.06:942][367]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.06:945][367]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.06:970][367]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.28.07:546][408]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.28.07:546][408]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.07:546][408]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.07:690][420]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.07:693][420]LogMaterial: 0.000049 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.07:718][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.28.08:318][463]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.28.08:318][463]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.08:318][463]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.09:833][613]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.09:836][613]LogMaterial: 0.000043 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.09:865][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionPanner_4, compiling. 
+[2016.02.22-13.28.10:478][657]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.02.22-13.28.10:478][657]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.10:478][657]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.16:219][707]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.28.20:637][ 82]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.20:640][ 82]LogMaterial: 0.000048 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.20:669][ 82]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.28.21:431][ 89]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.28.21:431][ 89]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.21:431][ 89]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.22:903][218]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.22:906][218]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.22:935][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_2, compiling. 
+[2016.02.22-13.28.23:608][264]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.28.23:608][264]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.23:608][264]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.29:427][771]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.29:430][771]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.29:460][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.28.30:220][821]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.28.30:220][821]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.30:220][821]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.30:344][831]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.30:347][831]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.30:378][831]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_3, compiling. 
+[2016.02.22-13.28.31:130][881]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.28.31:130][881]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.31:130][881]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.41:569][799]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.41:573][799]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.42:356][852]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 55 instructions
+[2016.02.22-13.28.42:356][852]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.42:356][852]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.28.46:591][235]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.28.46:594][235]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.28.47:332][287]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 54 instructions
+[2016.02.22-13.28.47:332][287]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.22-13.28.47:332][287]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.02.22-13.29.04:166][417]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.085
+[2016.02.22-13.29.04:170][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Water] ([1] browsable assets)...
+[2016.02.22-13.29.04:184][417]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Water.Water]
+[2016.02.22-13.29.04:184][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Water]
+[2016.02.22-13.29.04:184][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Water" FILE="J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/Water_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2016.02.22-13.29.04:199][417]LogSavePackage: Save=13.529249ms
+[2016.02.22-13.29.04:199][417]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Water_Auto97630455847C2036022E8FAB74313D437.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/Water_Auto9.uasset'
+[2016.02.22-13.29.04:199][417]LogSavePackage: Total save time: 14.273427ms
+[2016.02.22-13.29.04:199][417]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/Water_Auto9.uasset
+[2016.02.22-13.29.04:199][417]LogFileHelpers: Auto-saving content packages took 0.033
+[2016.02.22-13.29.04:349][419]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.38.55:374][193]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.39.00:796][370]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.39.00:804][370]LogMaterial: 0.000050 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.00:845][370]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.39.00:857][370]LogMaterial: Missing cached shader map for material Water, compiling. 
+[2016.02.22-13.39.00:864][370]LogMaterial: 0.000909 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.00:984][373]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 462/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.39.11:502][422]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 465/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.39.24:244][842]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.24:284][842]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.24:287][842]LogMaterial: 0.000040 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.25:245][900]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.39.25:245][900]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.39.25:245][900]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.39.28:813][ 86]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.39.30:684][269]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.30:687][269]LogMaterial: 0.000064 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.30:688][269]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_19, compiling. 
+[2016.02.22-13.39.31:036][293]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.31:039][293]LogMaterial: 0.000031 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.31:040][293]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2016.02.22-13.39.31:711][342]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.39.31:711][342]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.39.31:711][342]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.39.36:717][767]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.36:719][767]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.37:261][809]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.39.37:261][809]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.39.37:261][809]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.39.39:722][ 64]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.39:725][ 64]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.39:757][ 64]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_19, compiling. 
+[2016.02.22-13.39.40:274][103]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.39.40:274][103]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.39.40:274][103]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.39.46:047][696]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.46:050][696]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.46:078][696]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2016.02.22-13.39.46:617][733]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.39.46:617][733]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.39.46:617][733]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.39.51:443][191]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.51:446][191]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.51:923][204]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.39.51:923][204]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.39.51:923][204]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.39.55:452][570]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.39.55:455][570]LogMaterial: 0.000035 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.39.55:998][613]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.39.55:999][613]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.39.55:999][613]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.04:563][477]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.04:566][477]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.04:596][477]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2016.02.22-13.40.05:176][518]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.40.05:176][518]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.40.05:176][518]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.14:087][375]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.14:090][375]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.14:115][375]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2016.02.22-13.40.14:697][415]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.40.14:697][415]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.40.14:697][415]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.19:405][878]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.19:408][878]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.19:435][878]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2016.02.22-13.40.20:049][922]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.40.20:049][922]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.40.20:049][922]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.25:598][475]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.25:601][475]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.25:627][475]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2016.02.22-13.40.26:209][517]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.40.26:209][517]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.40.26:210][517]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.44:074][263]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.40.47:711][616]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.47:714][616]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.48:189][656]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.48:195][656]LogMaterial: 0.000076 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.48:766][697]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.40.48:766][697]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.40.48:766][697]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.52:162][ 45]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.52:165][ 45]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.52:711][ 87]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.40.52:711][ 87]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.40.52:711][ 87]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.54:558][275]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.54:561][275]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.55:092][317]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.40.55:092][317]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.40.55:092][317]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.40.59:394][728]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.59:397][728]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.40.59:767][754]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.40.59:771][754]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.00:363][798]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.41.00:363][798]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.00:363][798]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.01:320][895]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.01:323][895]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.01:866][937]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.41.01:866][937]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.01:866][937]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.03:064][ 56]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.03:068][ 56]LogMaterial: 0.000069 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.03:590][ 94]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.41.03:590][ 94]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.03:590][ 94]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.09:492][690]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.09:495][690]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.10:111][734]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.41.10:111][734]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.10:111][734]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.12:430][972]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.12:433][972]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.12:981][ 15]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.22-13.41.12:981][ 15]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.12:981][ 15]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.19:132][642]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.19:135][642]LogMaterial: 0.000035 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.19:759][687]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.02.22-13.41.19:759][687]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.19:759][687]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.30:359][759]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.30:362][759]LogMaterial: 0.000042 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.30:936][802]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.41.30:936][802]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.30:936][802]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.33:922][ 98]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.33:925][ 98]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.34:503][139]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.41.34:503][139]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.34:503][139]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.36:320][324]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.36:323][324]LogMaterial: 0.000044 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.36:894][369]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.41.36:894][369]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.36:894][369]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.38:740][550]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.38:742][550]LogMaterial: 0.000063 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.39:298][591]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.41.39:298][591]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.39:298][591]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.45:433][111]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 472/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.41.52:049][374]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.41.52:543][418]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.52:546][418]LogMaterial: 0.000042 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.53:193][460]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.41.53:193][460]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.22-13.41.53:193][460]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.41.58:514][983]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.41.58:521][983]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.41.59:283][ 39]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.41.59:283][ 39]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2016.02.22-13.41.59:283][ 39]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.42.02:361][338]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.42.02:366][338]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.42.03:114][391]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.42.03:114][391]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2016.02.22-13.42.03:114][391]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.42.05:896][670]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.42.05:900][670]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.42.06:647][726]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.42.06:647][726]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2016.02.22-13.42.06:647][726]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.42.12:610][961]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.42.14:321][115]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.42.14:325][115]LogMaterial: 0.000070 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.42.15:108][171]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.42.15:108][171]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2016.02.22-13.42.15:108][171]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.42.17:547][399]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.42.17:551][399]LogMaterial: 0.000051 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.42.18:306][455]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.42.18:306][455]MaterialEditorStats: Info Vertex shader: 32 instructions
+[2016.02.22-13.42.18:306][455]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.42.39:256][885]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.42.49:706][394]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.43.01:151][353]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.43.01:180][353]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.43.01:190][353]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.43.02:985][473]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.43.02:985][473]MaterialEditorStats: Info Vertex shader: 27 instructions
+[2016.02.22-13.43.02:985][473]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.43.20:489][955]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000A712130C20
+[2016.02.22-13.43.20:491][955]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000A74EB140E0
+[2016.02.22-13.43.20:494][955]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000A61C42AA20
+[2016.02.22-13.43.20:494][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.015
+[2016.02.22-13.43.20:497][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Water] ([1] browsable assets)...
+[2016.02.22-13.43.20:508][955]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Water.Water]
+[2016.02.22-13.43.20:508][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Water]
+[2016.02.22-13.43.20:508][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Water" FILE="J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/Water_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2016.02.22-13.43.20:528][955]LogSavePackage: Save=18.984407ms
+[2016.02.22-13.43.20:528][955]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Water_Auto08E6BE22346B2CC0B90013881E92695EC.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/Water_Auto0.uasset'
+[2016.02.22-13.43.20:529][955]LogSavePackage: Total save time: 19.671634ms
+[2016.02.22-13.43.20:529][955]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/Water_Auto0.uasset
+[2016.02.22-13.43.20:531][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/mathwater] ([1] browsable assets)...
+[2016.02.22-13.43.20:542][955]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/mathwater.mathwater]
+[2016.02.22-13.43.20:542][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/mathwater]
+[2016.02.22-13.43.20:542][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mathwater" FILE="J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/mathwater_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2016.02.22-13.43.20:559][955]LogSavePackage: Save=15.247458ms
+[2016.02.22-13.43.20:559][955]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/mathwater_Auto04F65B4B3496C6DC3DDAF439F6A1502A5.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/mathwater_Auto0.uasset'
+[2016.02.22-13.43.20:559][955]LogSavePackage: Total save time: 15.881237ms
+[2016.02.22-13.43.20:559][955]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/Autosaves/Game/Materials/mathwater_Auto0.uasset
+[2016.02.22-13.43.20:559][955]LogFileHelpers: Auto-saving content packages took 0.065
+[2016.02.22-13.43.20:744][957]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.43.28:433][981]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.43.33:381][106]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.43.51:201][292]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.44.11:610][808]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.44.38:771][628]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.44.47:289][388]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.44.47:294][388]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.44.49:436][510]LogMaterial: Missing cached shader map for material Material_15, compiling. 
+[2016.02.22-13.44.49:457][510]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2016.02.22-13.44.49:457][510]MaterialEditorStats: Info Vertex shader: 27 instructions
+[2016.02.22-13.44.49:457][510]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.22-13.44.49:496][512]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.44.49:512][512]LogMaterial: Missing cached shader map for material Material_16, compiling. 
+[2016.02.22-13.44.49:561][513]LogMaterial: Missing cached shader map for material Material_17, compiling. 
+[2016.02.22-13.44.49:622][515]LogMaterial: Missing cached shader map for material Material_18, compiling. 
+[2016.02.22-13.52.39:579][754]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.52.41:042][874]LogMaterialEditor: Saving and Compiling material mathwater
+[2016.02.22-13.52.41:453][874]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.52.41:472][874]LogMaterial: 0.000072 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.52.41:518][874]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.52.41:540][874]LogMaterial: Missing cached shader map for material mathwater, compiling. 
+[2016.02.22-13.52.41:550][874]LogMaterial: 0.000600 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.22-13.52.45:052][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mathwater" FILE="J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Materials/mathwater.uasset" SILENT=true
+[2016.02.22-13.52.45:079][874]LogSavePackage: Save=26.305267ms
+[2016.02.22-13.52.45:079][874]LogSavePackage: Moving 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Saved/mathwater6C2AE3D84914C7B8FA53F9B61A0C5175.tmp' to 'J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Materials/mathwater.uasset'
+[2016.02.22-13.52.45:082][874]LogSavePackage: Total save time: 29.463056ms
+[2016.02.22-13.52.45:082][874]LogSavePackage:Display: Finished SavePackage J:/Work/Uni/Year 2/Off The Map/ForestTale/Content/Materials/mathwater.uasset
+[2016.02.22-13.52.45:086][874]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 77 instructions
+[2016.02.22-13.52.45:086][874]MaterialEditorStats: Info Vertex shader: 27 instructions
+[2016.02.22-13.52.45:086][874]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.02.22-13.52.45:110][876]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.53.58:397][729]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.55.06:960][150]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 462/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-13.55.12:830][624]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000A6FA44BEC0
+[2016.02.22-13.55.16:340][718]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.22-14.13.17:436][402]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-14.18.22:154][316]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-14.18.48:348][394]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-14.27.24:413][941]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.22-14.38.43:750][979]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 463/400 MB (ok in editor, bad on fixed memor
