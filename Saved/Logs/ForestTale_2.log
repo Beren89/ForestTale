@@ -920,4 +920,482 @@
 [2016.02.23-15.40.37:746][  6]LogEditorTransaction: Undo Scale Actors
 [2016.02.23-15.40.40:104][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2016.02.23-15.40.40:546][188]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
-[2016.02.23-15.40.54:848][308
+[2016.02.23-15.40.54:848][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.23-15.40.55:337][361]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-15.41.54:553][212]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.23-15.41.54:994][212]LogSavePackage: Save=366.940247ms
+[2016.02.23-15.41.54:994][212]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMap_Auto69C46F8CF4B6B6A14B01CB7ADBB640372.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2016.02.23-15.41.54:994][212]LogSavePackage: Total save time: 381.353855ms
+[2016.02.23-15.41.54:994][212]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto6.umap
+[2016.02.23-15.41.54:996][212]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.443
+[2016.02.23-15.41.54:996][212]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.443
+[2016.02.23-15.41.55:003][212]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Spline] ([1] browsable assets)...
+[2016.02.23-15.41.55:003][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline]
+[2016.02.23-15.41.55:003][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spline" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Blueprints/Spline_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2016.02.23-15.41.55:064][212]LogSavePackage: Save=57.939396ms
+[2016.02.23-15.41.55:064][212]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Spline_Auto6695A389846833EDEF5827BA32FF4B8E6.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Blueprints/Spline_Auto6.uasset'
+[2016.02.23-15.41.55:065][212]LogSavePackage: Total save time: 61.345764ms
+[2016.02.23-15.41.55:065][212]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Blueprints/Spline_Auto6.uasset
+[2016.02.23-15.41.55:065][212]LogFileHelpers: Auto-saving content packages took 0.067
+[2016.02.23-15.41.55:093][214]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-15.42.14:098][272]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-15.42.23:070][179]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-15.43.01:495][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.23-15.43.02:102][148]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-15.43.09:934][958]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-15.46.11:895][534]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-15.46.13:337][567]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-15.51.55:684][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.23-15.51.56:122][865]LogSavePackage: Save=370.872437ms
+[2016.02.23-15.51.56:122][865]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMap_Auto7D3410BFE47121DB294B2EDABA247CFD6.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2016.02.23-15.51.56:122][865]LogSavePackage: Total save time: 390.218571ms
+[2016.02.23-15.51.56:122][865]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto7.umap
+[2016.02.23-15.51.56:127][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.443
+[2016.02.23-15.51.56:127][865]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.443
+[2016.02.23-15.55.24:289][723]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-15.55.30:254][336]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-15.59.00:012][446]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-15.59.34:507][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.23-15.59.35:096][225]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-15.59.38:098][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.23-16.00.12:343][573]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-16.00.31:521][437]LogMaterial:Warning: Material /Game/Materials/WoodBase_mat.WoodBase_mat needed to have new flag set bUsedWithSplineMeshes !
+[2016.02.23-16.00.31:523][437]LogMaterial: Missing cached shader map for material WoodBase_mat, compiling. 
+[2016.02.23-16.00.31:535][437]LogMaterial: 0.000096 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.00.34:694][626]BlueprintLog: New page: Compile Spline
+[2016.02.23-16.00.34:801][626]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.23-16.00.34:868][626]BlueprintEditorCompileResults: Info [8233.09] Compile of Spline successful! [in 174 ms]
+[2016.02.23-16.00.35:231][651]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-16.00.42:245][404]Cmd: TRANSACTION UNDO
+[2016.02.23-16.00.42:245][404]LogEditorTransaction: Undo Edit Static Mesh
+[2016.02.23-16.01.20:860][137]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-16.01.34:090][482]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.01.34:256][482]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.01.34:259][482]LogMaterial: 0.000041 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.01.35:305][573]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.23-16.01.35:305][573]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.01.35:305][573]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.01.44:893][565]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.01.44:897][565]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.01.44:912][565]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.01.44:916][565]LogMaterial: 0.000033 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.01.45:827][666]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.23-16.01.45:827][666]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.01.45:827][666]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.01.48:716][997]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.01.48:720][997]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.01.49:449][ 53]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.23-16.01.49:449][ 53]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.01.49:449][ 53]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.01.54:058][557]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.01.54:062][557]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.01.54:063][557]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.02.23-16.01.54:067][557]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.01.54:071][557]LogMaterial: 0.000058 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.01.54:106][557]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.02.23-16.01.54:951][643]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.23-16.01.54:951][643]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.01.54:951][643]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.02.05:134][694]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.02.05:138][694]LogMaterial: 0.000064 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.02.05:160][694]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.02.23-16.02.05:895][772]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.23-16.02.05:895][772]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.02.05:895][772]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.02.32:435][643]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.02.32:439][643]LogMaterial: 0.000059 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.02.32:441][643]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.02.32:445][643]LogMaterial: 0.000031 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.02.33:433][756]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2016.02.23-16.02.33:433][756]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.02.33:433][756]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.02.37:232][160]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.02.37:236][160]LogMaterial: 0.000072 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.02.37:884][228]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 30 instructions
+[2016.02.23-16.02.37:884][228]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.02.37:885][228]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.02.47:976][225]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.02.47:987][225]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.02.47:991][225]LogMaterial: 0.000027 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.02.49:848][420]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 6 instructions
+[2016.02.23-16.02.49:848][420]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 6 instructions
+[2016.02.23-16.02.49:848][420]MaterialEditorStats: Info Vertex shader: 68 instructions
+[2016.02.23-16.02.49:848][420]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.02.23-16.03.14:227][815]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.14:233][815]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.14:236][815]LogMaterial: 0.000024 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.15:229][906]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 30 instructions
+[2016.02.23-16.03.15:229][906]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.02.23-16.03.15:229][906]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.02.23-16.03.23:448][703]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.23:455][703]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.23:459][703]LogMaterial: 0.000082 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.25:421][846]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 6 instructions
+[2016.02.23-16.03.25:422][846]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 6 instructions
+[2016.02.23-16.03.25:422][846]MaterialEditorStats: Info Vertex shader: 68 instructions
+[2016.02.23-16.03.25:422][846]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.02.23-16.03.29:568][307]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.29:572][307]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.29:574][307]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.29:578][307]LogMaterial: 0.000024 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.31:336][513]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 6 instructions
+[2016.02.23-16.03.31:336][513]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 6 instructions
+[2016.02.23-16.03.31:336][513]MaterialEditorStats: Info Vertex shader: 68 instructions
+[2016.02.23-16.03.31:336][513]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.02.23-16.03.37:235][146]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.37:239][146]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.39:047][358]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 6 instructions
+[2016.02.23-16.03.39:047][358]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 6 instructions
+[2016.02.23-16.03.39:047][358]MaterialEditorStats: Info Vertex shader: 68 instructions
+[2016.02.23-16.03.39:047][358]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.02.23-16.03.45:767][ 53]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.45:771][ 53]LogMaterial: 0.000113 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.47:751][288]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 28 instructions
+[2016.02.23-16.03.47:751][288]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 64 instructions
+[2016.02.23-16.03.47:751][288]MaterialEditorStats: Info Vertex shader: 68 instructions
+[2016.02.23-16.03.47:751][288]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.02.23-16.03.49:209][458]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 425/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-16.03.50:991][595]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 425/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-16.03.53:935][823]LogMaterialEditor: Saving and Compiling material Glass
+[2016.02.23-16.03.54:289][823]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.54:300][823]LogMaterial: 0.000050 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.54:334][823]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.54:350][823]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.03.54:359][823]LogMaterial: 0.001834 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.03.58:538][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Glass" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Glass.uasset" SILENT=true
+[2016.02.23-16.03.58:551][823]LogSavePackage: Save=11.397835ms
+[2016.02.23-16.03.58:551][823]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/GlassCA19AE2B48FBE1AF61E569AC4F0EEC1E.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Glass.uasset'
+[2016.02.23-16.03.58:552][823]LogSavePackage: Total save time: 12.654133ms
+[2016.02.23-16.03.58:552][823]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Glass.uasset
+[2016.02.23-16.03.58:557][823]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.02.23-16.03.58:557][823]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 84 instructions
+[2016.02.23-16.03.58:557][823]MaterialEditorStats: Info Vertex shader: 68 instructions
+[2016.02.23-16.03.58:557][823]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.02.23-16.04.05:422][337]LogMaterial:Warning: Material /Game/Glass.Glass needed to have new flag set bUsedWithSplineMeshes !
+[2016.02.23-16.04.05:422][337]LogMaterial:Warning: Material /Engine/Transient.Glass needed to have new flag set bUsedWithSplineMeshes !
+[2016.02.23-16.04.05:424][337]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.04.05:428][337]LogMaterial: 0.000079 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.04.05:430][337]LogMaterial: Missing cached shader map for material Glass, compiling. 
+[2016.02.23-16.04.05:438][337]LogMaterial: 0.000103 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.23-16.04.11:362][796]BlueprintLog: New page: Compile Spline
+[2016.02.23-16.04.11:473][796]BlueprintEditorCompileResults: Info [8449.68] Compile of Spline successful! [in 110 ms]
+[2016.02.23-16.04.11:801][823]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 425/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-16.04.13:154][951]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.02.23-16.04.13:154][951]MaterialEditorStats: Info Base pass shader for self shadowed translucency: 84 instructions
+[2016.02.23-16.04.13:154][951]MaterialEditorStats: Info Vertex shader: 68 instructions
+[2016.02.23-16.04.13:154][951]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.02.23-16.04.16:675][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.23-16.04.50:262][380]LogSavePackage: Save=316.900238ms
+[2016.02.23-16.04.50:262][380]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMap_Auto8E7390D5C479602E822503CA5FD1CBC33.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2016.02.23-16.04.50:262][380]LogSavePackage: Total save time: 329.716172ms
+[2016.02.23-16.04.50:262][380]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto8.umap
+[2016.02.23-16.04.50:263][380]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ThirdPersonExampleMap' took 0.363
+[2016.02.23-16.04.50:264][380]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.363
+[2016.02.23-16.04.50:269][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Spline] ([1] browsable assets)...
+[2016.02.23-16.04.50:269][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spline]
+[2016.02.23-16.04.50:269][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spline" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Blueprints/Spline_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2016.02.23-16.04.50:334][380]LogSavePackage: Save=58.909237ms
+[2016.02.23-16.04.50:334][380]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Spline_Auto84CDBD0AC4CE4DE6DAC9BACB29F23D6FF.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Blueprints/Spline_Auto8.uasset'
+[2016.02.23-16.04.50:334][380]LogSavePackage: Total save time: 64.103462ms
+[2016.02.23-16.04.50:334][380]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Blueprints/Spline_Auto8.uasset
+[2016.02.23-16.04.50:340][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Glass] ([1] browsable assets)...
+[2016.02.23-16.04.50:340][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Glass]
+[2016.02.23-16.04.50:340][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Glass" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Glass_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2016.02.23-16.04.50:350][380]LogSavePackage: Save=4.627654ms
+[2016.02.23-16.04.50:350][380]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Glass_Auto8FFF7900E4AEE47F5F49FEF8C2A0BAAEB.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Glass_Auto8.uasset'
+[2016.02.23-16.04.50:351][380]LogSavePackage: Total save time: 10.165688ms
+[2016.02.23-16.04.50:351][380]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Autosaves/Game/Glass_Auto8.uasset
+[2016.02.23-16.04.50:351][380]LogFileHelpers: Auto-saving content packages took 0.086
+[2016.02.23-16.05.04:519][793]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-16.05.29:604][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.23-16.10.42:395][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.23-16.10.42:753][507]LogSavePackage: Save=316.937988ms
+[2016.02.23-16.10.42:753][507]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMap9A85BCD84F835A287F5D5AB9FE176FC4.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap'
+[2016.02.23-16.10.42:758][507]LogSavePackage: Total save time: 335.622158ms
+[2016.02.23-16.10.42:758][507]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap
+[2016.02.23-16.10.42:784][507]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.464
+[2016.02.23-16.10.42:789][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultMaterial" FILE="../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" SILENT=true
+[2016.02.23-16.11.08:893][507]EditorErrors: New page: Save Output
+[2016.02.23-16.11.08:893][507]EditorErrors:Warning: Warning Cannot save asset '../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset' as user opted not to save this startup asset
+[2016.02.23-16.11.08:893][507]EditorErrors:Warning: Warning Asset '../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset' is not allowed to save (see log for reason)
+[2016.02.23-16.11.30:384][303]BlueprintLog: New page: Compile Spline
+[2016.02.23-16.11.30:471][303]BlueprintEditorCompileResults: Info [8888.64] Compile of Spline successful! [in 85 ms]
+[2016.02.23-16.11.31:149][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spline" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Blueprints/Spline.uasset" SILENT=true
+[2016.02.23-16.11.31:208][357]LogSavePackage: Save=52.983631ms
+[2016.02.23-16.11.31:208][357]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Spline2A802AF848537D1A4A273492B13BC647.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Blueprints/Spline.uasset'
+[2016.02.23-16.11.31:212][357]LogSavePackage: Total save time: 61.658785ms
+[2016.02.23-16.11.31:212][357]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Blueprints/Spline.uasset
+[2016.02.23-16.11.32:626][496]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 425/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-16.11.38:378][ 97]LogEditorViewport: Clicking on Actor (LMB): Spline_C (Spline)
+[2016.02.23-16.12.10:892][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.02.23-16.12.16:156][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.23-16.12.16:502][388]LogSavePackage: Save=317.669647ms
+[2016.02.23-16.12.16:503][388]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/ThirdPersonExampleMap13D6B43148196C24A19613845C67E3B1.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap'
+[2016.02.23-16.12.16:505][388]LogSavePackage: Total save time: 321.920004ms
+[2016.02.23-16.12.16:505][388]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Maps/ThirdPersonExampleMap.umap
+[2016.02.23-16.12.16:529][388]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.443
+[2016.02.23-16.12.16:534][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultMaterial" FILE="../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" SILENT=true
+[2016.02.23-16.12.30:358][388]EditorErrors: New page: Save Output
+[2016.02.23-16.12.30:358][388]EditorErrors:Warning: Warning Cannot save asset '../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset' as user opted not to save this startup asset
+[2016.02.23-16.12.30:358][388]EditorErrors:Warning: Warning Asset '../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset' is not allowed to save (see log for reason)
+[2016.02.23-16.12.56:698][591]LogMaterialEditor: Saving and Compiling material Glass
+[2016.02.23-16.12.56:719][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Glass" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Glass.uasset" SILENT=true
+[2016.02.23-16.12.56:728][591]LogSavePackage: Save=3.645737ms
+[2016.02.23-16.12.56:728][591]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/GlassE06A6D68453E0CE0662ECEBBAB1EBBC8.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Glass.uasset'
+[2016.02.23-16.12.56:731][591]LogSavePackage: Total save time: 11.581361ms
+[2016.02.23-16.12.56:731][591]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Glass.uasset
+[2016.02.23-16.13.03:742][293]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000CC8D5760
+[2016.02.23-16.13.03:743][293]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000055701A80
+[2016.02.23-16.13.03:760][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultMaterial" FILE="../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" SILENT=true
+[2016.02.23-16.13.06:087][293]EditorErrors: New page: Save Output
+[2016.02.23-16.13.06:087][293]EditorErrors:Warning: Warning Cannot save asset '../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset' as user opted not to save this startup asset
+[2016.02.23-16.13.06:087][293]EditorErrors:Warning: Warning Asset '../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset' is not allowed to save (see log for reason)
+[2016.02.23-16.13.08:653][589]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 424/400 MB (ok in editor, bad on fixed memory platform)
+[2016.02.23-16.13.12:166][975]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2016.02.23-16.13.26:152][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Body)
+[2016.02.23-16.13.41:566][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Body" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Body.uasset" SILENT=true
+[2016.02.23-16.13.41:579][562]LogSavePackage: Save=11.891962ms
+[2016.02.23-16.13.41:579][562]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Body1517280C4B40A758FEB92BAFEC26D689.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Body.uasset'
+[2016.02.23-16.13.41:582][562]LogSavePackage: Total save time: 15.470386ms
+[2016.02.23-16.13.41:582][562]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Body.uasset
+[2016.02.23-16.13.41:602][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Handle" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Handle.uasset" SILENT=true
+[2016.02.23-16.13.41:615][562]LogSavePackage: Save=11.446432ms
+[2016.02.23-16.13.41:615][562]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Handle916048EC49AEC9F8F01977A1EC2112CD.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Handle.uasset'
+[2016.02.23-16.13.41:618][562]LogSavePackage: Total save time: 14.636982ms
+[2016.02.23-16.13.41:618][562]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Handle.uasset
+[2016.02.23-16.13.41:638][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Lid" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Lid.uasset" SILENT=true
+[2016.02.23-16.13.41:650][562]LogSavePackage: Save=11.182616ms
+[2016.02.23-16.13.41:650][562]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/LidD33ED17645455BDCC7E491ACB84EF2B2.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Lid.uasset'
+[2016.02.23-16.13.41:652][562]LogSavePackage: Total save time: 13.438638ms
+[2016.02.23-16.13.41:652][562]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Lid.uasset
+[2016.02.23-16.13.41:672][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Mouth" FILE="E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Mouth.uasset" SILENT=true
+[2016.02.23-16.13.41:685][562]LogSavePackage: Save=11.559022ms
+[2016.02.23-16.13.41:685][562]LogSavePackage: Moving 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Saved/Mouth19C293E94C6AF1E6A9935E898F265839.tmp' to 'E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Mouth.uasset'
+[2016.02.23-16.13.41:687][562]LogSavePackage: Total save time: 13.894431ms
+[2016.02.23-16.13.41:687][562]LogSavePackage:Display: Finished SavePackage E:/Andrea D'Acunzo/Experimental Games/ForestTale/Content/Meshes/Mouth.uasset
+[2016.02.23-16.13.41:862][562]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.02.23-16.13.41:911][562]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.02.23-16.13.41:961][562]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.02.23-16.13.42:211][563]Cmd: QUIT_EDITOR
+[2016.02.23-16.13.42:414][563]LogExit: Preparing to exit.
+[2016.02.23-16.13.43:595][563]LogExit: Editor shut down
+[2016.02.23-16.13.43:595][563]LogExit: Transaction tracking system shut down
+[2016.02.23-16.13.43:596][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F0CEA20
+[2016.02.23-16.13.43:596][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001F4C5580
+[2016.02.23-16.13.43:597][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000030B0F740
+[2016.02.23-16.13.43:602][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003FC72480
+[2016.02.23-16.13.43:602][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000056176C00
+[2016.02.23-16.13.43:604][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000092B4BC40
+[2016.02.23-16.13.43:605][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000005714B9C0
+[2016.02.23-16.13.43:606][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000006A11B7E0
+[2016.02.23-16.13.43:607][563]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000087620360
+[2016.02.23-16.13.43:842][563]LogExit: Object subsystem successfully closed.
+[2016.02.23-16.13.43:855][563]LogD3D11RHI: Shutdown
+[2016.02.23-16.13.43:855][563]LogD3D11RHI: CleanupD3DDevice
+[2016.02.23-16.13.43:975][563]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module MaterialEditor (205)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (204)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (203)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module CookingStats (202)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module BlueprintGraph (201)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module CrashTracker (200)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module SceneOutliner (199)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module SuperSearch (198)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module WidgetCarousel (197)
+[2016.02.23-16.13.43:992][563]LogModuleManager: Shutting down and abandoning module AddContentDialog (196)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module EditorWidgets (195)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module CollectionManager (194)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module StatsViewer (193)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module FoliageEdit (192)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module LandscapeEditor (191)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module ActorPickerMode (190)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module GeometryMode (189)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module TextureAlignMode (188)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module BspMode (187)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module PlacementMode (186)
+[2016.02.23-16.13.43:993][563]LogModuleManager: Shutting down and abandoning module AutomationWorker (185)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module CharacterAI (184)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module SmartSnapping (183)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module ViewportSnapping (182)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module LogVisualizer (181)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (180)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module IntroTutorials (179)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (178)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (177)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (176)
+[2016.02.23-16.13.43:994][563]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (175)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (174)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (173)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (172)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module MergeActors (171)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module SizeMap (170)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module TreeMap (169)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module ReferenceViewer (168)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module LocalizationService (167)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (166)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module HardwareTargeting (165)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (164)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module UndoHistory (163)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (162)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module UserFeedback (161)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module XmlParser (160)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module Blutility (159)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (158)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (157)
+[2016.02.23-16.13.44:868][563]LogModuleManager: Shutting down and abandoning module InputBindingEditor (156)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (155)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module SettingsEditor (154)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module ProjectLauncher (153)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module SessionFrontend (152)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module ProfilerClient (151)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (150)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module DeviceManager (149)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module AutomationController (148)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module AutomationWindow (147)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module Layers (146)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (145)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module DetailCustomizations (144)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module PackagesDialog (143)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module Persona (142)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module Kismet (141)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module GraphEditor (140)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module ClassViewer (139)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module Toolbox (138)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module ModuleUI (137)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module MovieSceneTools (136)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module OutputLog (135)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module GammaUI (134)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module Documentation (133)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (132)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (131)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module AnalyticsET (130)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module Analytics (129)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module AITestSuite (128)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module GameplayDebugger (127)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module AIModule (126)
+[2016.02.23-16.13.44:869][563]LogModuleManager: Shutting down and abandoning module ProfilerService (125)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module TaskGraph (124)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module SubstanceEditor (123)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module SlateRemote (122)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module SteamVRController (121)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module SteamVR (120)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (119)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module OculusLibrary (118)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module OculusInput (117)
+[2016.02.23-16.13.44:885][563]LogModuleManager: Shutting down and abandoning module LeapMotionController (116)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (115)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module CableComponent (114)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (113)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module MessagingDebugger (112)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (111)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module HTML5Networking (110)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (109)
+[2016.02.23-16.13.44:897][563]LogModuleManager: Shutting down and abandoning module PluginBrowser (108)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module EpicSurvey (107)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module DesktopPlatform (106)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (105)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module UObjectPlugin (104)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (103)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (102)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module SourceControl (101)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module GitSourceControl (100)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (99)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (98)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (97)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module MeshPaint (96)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module SlateReflector (95)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module HotReload (94)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module MainFrame (93)
+[2016.02.23-16.13.44:898][563]LogModuleManager: Shutting down and abandoning module LevelEditor (92)
+[2016.02.23-16.13.44:900][563]LogModuleManager: Shutting down and abandoning module ContentBrowser (91)
+[2016.02.23-16.13.44:900][563]LogModuleManager: Shutting down and abandoning module Paper2DEditor (90)
+[2016.02.23-16.13.44:900][563]LogModuleManager: Shutting down and abandoning module UdpMessaging (89)
+[2016.02.23-16.13.45:000][563]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2016.02.23-16.13.45:000][563]LogModuleManager: Shutting down and abandoning module AssetRegistry (87)
+[2016.02.23-16.13.45:113][563]LogModuleManager: Shutting down and abandoning module SubstanceCore (86)
+[2016.02.23-16.13.45:113][563]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (85)
+[2016.02.23-16.13.45:113][563]LogModuleManager: Shutting down and abandoning module Paper2D (84)
+[2016.02.23-16.13.45:113][563]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (83)
+[2016.02.23-16.13.45:116][563]LogModuleManager: Shutting down and abandoning module Media (82)
+[2016.02.23-16.13.45:116][563]LogModuleManager: Shutting down and abandoning module WmfMedia (81)
+[2016.02.23-16.13.45:116][563]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2016.02.23-16.13.45:116][563]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (79)
+[2016.02.23-16.13.45:116][563]LogModuleManager: Shutting down and abandoning module PropertyEditor (78)
+[2016.02.23-16.13.45:116][563]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (77)
+[2016.02.23-16.13.45:116][563]LogModuleManager: Shutting down and abandoning module FunctionalTesting (76)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (75)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (74)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module MessageLog (73)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module Sequencer (72)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module AssetTools (71)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module UMGEditor (70)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module UMG (69)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module Slate (68)
+[2016.02.23-16.13.45:117][563]LogModuleManager: Shutting down and abandoning module EditorStyle (67)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module SessionServices (66)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (65)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (64)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module XAudio2 (63)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module Networking (61)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module Core (60)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module KismetCompiler (59)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module PhysXFormats (58)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module MeshUtilities (57)
+[2016.02.23-16.13.45:119][563]LogModuleManager: Shutting down and abandoning module DerivedDataCache (56)
+[2016.02.23-16.13.45:124][563]LogDerivedDataCache: Shutdown
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (55)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (54)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (53)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (52)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (51)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (50)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (49)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module ImageWrapper (48)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (47)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (46)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (45)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (44)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (43)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (42)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (41)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (40)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.02.23-16.13.45:124][563]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.02.23-16.13.45:125][563]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.02.23-16.13.46:625][563]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.02.23-16.13.46:625][563]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.02.23-16.13.46:625][563]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.02.23-16.13.46:625][563]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.02.23-16.13.46:625][563]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.02.23-16.13.46:625][563]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.02.23-16.13.46:625][563]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.02.23-16.13.46:632][563]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.02.23-16.13.46:633][563]LogExit: Exiting.
+[2016.02.23-16.13.46:652][563]Log file closed, 02/23/16 16:13:46
